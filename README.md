@@ -2,9 +2,12 @@
 
 This repository contains the project for developing a segmentation of customers for a financial institution and a supervised model for recommending customer targets for a campaign.
 
+# Overview of the Code
+
+![image](https://user-images.githubusercontent.com/76022147/194981144-24f520fd-663f-485d-8fde-5c0d6bbe2678.png)
 
 
-# Structure 💻
+# Structure of Files 💻
 
 - 📄The report is available in the file "report.pdf"
 - 🐍Code "Arvato Project Workbook.ipynb"
